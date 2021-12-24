@@ -35,6 +35,9 @@ A: "Reuse the code" is not easy, for example, this step-by-step guide on how to 
 Q: Is this legal?
 A: We use only open-source code published under MIT or GPL licenses which allow copying without any restrictions.
 
+Q: Can I pay more than 1000 USD? 
+A: yes, for example, 2000 for a 2-year license, also you can credit us (we will return your credit from future sales with negotiated %)
+
 # How to participate? 
 1. Fill this form https://docs.google.com/forms/d/1dxbMe5f3q-2bWvs4k1zcOjx8t-HGDFUOcwi3q2YRDKk/edit?usp=forms_home&ths=true, and join discord https://discord.gg/grURfmxX9g (optional), 
 2. send the payment via paypal to i448539@gmail.com, or usdt (usdc), eth, bnb to  0x873351e707257C28eC6fAB1ADbc850480f6e0633 
