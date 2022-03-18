@@ -5,12 +5,7 @@ We will develop a tool to allow any no-code webmaster to deploy and manage EVM-t
 ![](https://screenshots.wpmix.net/chrome_JJxTqAAmO6AM02fsOLQGhP5vUImjajOx.png)
 
 # EVM-to-EVM cross-chain bridge is the most requested tool. 
-We've got 10+ requests where clients can pay 1000-5000$ for such a solution. We planned to release this tool in 2-3 months and ask our community to crowdfund this development. You can buy 1 license NFT for 1000 USDC. 
-
-# 1 license = 1000 USDC. For this price you will get:
-- 1 license allows you to deploy and manage "anyswap.exchange clone" on 1 domain
-- 1 license guarantees 1 year of support and updates (then you need to buy another one)
-- you can buy more licenses and resell them. retail price will higher (2000-5000$) 
+We've got 10+ requests where clients can pay 1000-5000$ for such a solution. We planned to release this tool in Q1 2022 months and ask our community to crowdfund this development. You can buy 1 license for 1000$. 
 
 # Features for admin
 ## Admin can
@@ -35,10 +30,5 @@ A: "Reuse the code" is not easy, for example, this step-by-step guide on how to 
 Q: Is this legal?
 A: We use only open-source code published under MIT or GPL licenses which allow copying without any restrictions.
 
-Q: Can I pay more than 1000 USD? 
-A: yes, for example, 2000 for a 2-year license, also you can credit us (we will return your credit from future sales with negotiated %)
 
-# How to participate? 
-1. Fill this form https://docs.google.com/forms/d/1dxbMe5f3q-2bWvs4k1zcOjx8t-HGDFUOcwi3q2YRDKk/edit?usp=forms_home&ths=true, and join discord https://discord.gg/grURfmxX9g (optional), 
-2. send the payment via paypal to i448539@gmail.com, or usdt (usdc), eth, bnb to  0x873351e707257C28eC6fAB1ADbc850480f6e0633 
-3. contact admin via telegram https://t.me/sashanoxon, i will send you
+
