@@ -24,9 +24,6 @@ We are developers who build no-code tools to deploy and manage blockchain apps (
 Q: is this fork of anyswap.exchange?
 A: yes
 
-Q: Why do you need 10 000, you don't code anything and reuse another product! 
-A: "Reuse the code" is not easy, for example, this step-by-step guide on how to deploy uniswap v2 https://onout.org/uniswapFork/ dex. To create this guide we perform massive research of their contracts and codebase, then we release the admin tool which does all these steps "in one click". Such R&D takes 2 months minimum.  
-
 Q: Is this legal?
 A: We use only open-source code published under MIT or GPL licenses which allow copying without any restrictions.
 
